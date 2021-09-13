@@ -15,3 +15,4 @@ This project is implemented using Flask, and is a REST API for a store.
 pip install Flask 
 pip install flasksqlalchemy 
 pip install JWT 
+pip install flaskrestful 
